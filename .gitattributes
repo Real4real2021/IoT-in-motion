@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*IoT_in_motion.zip filter=lfs diff=lfs merge=lfs -text
