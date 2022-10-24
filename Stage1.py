@@ -4,6 +4,7 @@ Created on Sun Apr 24 00:26:09 2022
 
 @author: Kris K
 """
+#Using contours to specify which objects to focus on
 
 import numpy as np
 import cv2
