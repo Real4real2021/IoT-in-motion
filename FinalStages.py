@@ -8,7 +8,7 @@ Created on Sun Apr 24 00:26:09 2022
 import numpy as np
 import cv2
 
-cap = cv2.VideoCapture('cctv.mp4')
+cap = cv2.VideoCapture('')
 
 ret, frame1 = cap.read()
 ret, frame2 = cap.read()
